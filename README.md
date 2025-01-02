@@ -79,3 +79,4 @@ Exercice 14 : Vérifier si une adresse email est au bon format.
 <h2>Outils</h2>
 
 - VSCode
+- Laragon
