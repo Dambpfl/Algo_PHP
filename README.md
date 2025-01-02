@@ -1,8 +1,8 @@
- <h2> 📝 Consignes </h2>
+ <h1> 📝 Consignes </h1>
 
 Le but de ces exercices est d'exploiter les ressources en ligne de référence pour PHP
 
-<h2> 📚 Ressources </h2>
+<h1> 📚 Ressources </h1>
 
 - Documentation officielle
 
@@ -70,7 +70,7 @@ Exercice 13 : Installer Xdebug et le tester.
 
 Exercice 14 : Vérifier si une adresse email est au bon format.
 
-<h2> 🔧 Technologies utilisées </h2>
+<h1> 🔧 Technologies utilisées </h1>
 
 <h2>Languages</h2>
 
